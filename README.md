@@ -247,7 +247,7 @@ def query_Vector(query):
 
 ![WhatsApp Image 2023-04-21 at 4 04 06 PM](https://user-images.githubusercontent.com/75234946/233618450-24218717-a031-44ad-b509-f6ea5321a0af.jpeg)
 
-![Uploading WhatsApp Image 2023-04-21 at 4.04.54 PM.jpeg…]()
+
 
 
 Thus, ranking of web documents using Boolean Model is found
